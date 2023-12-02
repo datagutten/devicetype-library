@@ -1,17 +1,17 @@
 ---
 manufacturer: HPE
-model: Aruba 2930F-48G-PoE+-4SFP
-slug: hpe-aruba-2930f-48g-poep-4sfp
-part_number: JL262A
+model: Aruba 2930F-48G-PoE+-4SFP 740W
+slug: hpe-aruba-2930f-48g-poep-4sfp-740w
+part_number: JL557A
 u_height: 1
 is_full_depth: false
 front_image: true
-weight: 9.83
+weight: 11.56
 weight_unit: lb
 power-ports:
   - name: PS1
     type: iec-60320-c14
-    maximum_draw: 459
+    maximum_draw: 980
 console-ports:
   - name: Console
     type: rj-45
